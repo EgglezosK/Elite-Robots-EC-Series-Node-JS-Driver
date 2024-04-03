@@ -1,0 +1,13 @@
+{
+  "name": "elite-robots-ec-series-node-js-driver",
+  "version": "1.0.0",
+  "description": "This repository hosts the Node.js driver for interfacing with Elite Robots' EC Series of robotic platforms.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": ["EC Series", "Elite Robots", "Elite Robots NodeJS"],
+  "author": "Konstantinos Englezos",
+  "license": "MIT"
+}
